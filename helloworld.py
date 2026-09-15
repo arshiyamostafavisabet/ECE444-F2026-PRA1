@@ -4,6 +4,6 @@
 # Brief: The program prints the phrase "Hello World" in the terminal
 # Version: 1.1.0 -> added another print statement to include the author's name in print statement
 
-print("Hello World")
-print("Arshiya Mostafavisabet")
+enrollmentYears = 3
+print(f"I have been at UofT for {enrollmentYears} years")
 
