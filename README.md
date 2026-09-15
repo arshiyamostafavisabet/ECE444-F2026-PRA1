@@ -13,6 +13,13 @@
 
 <img width="860" height="798" alt="Screenshot 2026-09-15 105718" src="https://github.com/user-attachments/assets/7619a2d6-efba-4ad5-9fa5-54c25caee225" />
 
+## Activity 4
+<img width="1892" height="957" alt="Screenshot 2026-09-15 112801" src="https://github.com/user-attachments/assets/56bfa2da-14dc-4f2f-b202-474211e00082" />
+
+<img width="1491" height="441" alt="Screenshot 2026-09-15 112821" src="https://github.com/user-attachments/assets/8c484aa8-43c9-48b0-b9a0-be9bb90c24b2" />
+
+<img width="1645" height="892" alt="Screenshot 2026-09-15 112844" src="https://github.com/user-attachments/assets/915a4d91-cdaa-4f82-8822-f03235d8f168" />
+
 
 
 
